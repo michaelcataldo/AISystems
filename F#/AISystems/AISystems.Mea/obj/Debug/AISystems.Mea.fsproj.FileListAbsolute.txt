@@ -1,0 +1,7 @@
+C:\Users\Michael\Documents\Source\AISystems\AISystems.Mea\bin\Debug\AISystems.Mea.XML
+C:\Users\Michael\Documents\Source\AISystems\AISystems.Mea\bin\Debug\AISystems.Mea.dll
+C:\Users\Michael\Documents\Source\AISystems\AISystems.Mea\bin\Debug\AISystems.Mea.pdb
+C:\Users\Michael\Documents\Source\AISystems\AISystems.Mea\bin\Debug\FSharp.Core.dll
+C:\Users\Michael\Documents\Source\AISystems\AISystems.Mea\bin\Debug\FSharp.Core.xml
+C:\Users\Michael\Documents\Source\AISystems\AISystems.Mea\obj\Debug\AISystems.Mea.dll
+C:\Users\Michael\Documents\Source\AISystems\AISystems.Mea\obj\Debug\AISystems.Mea.pdb

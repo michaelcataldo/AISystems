@@ -1,0 +1,12 @@
+C:\Users\Michael\Documents\Source\AISystems\AISystems\bin\Debug\AISystems.exe.config
+C:\Users\Michael\Documents\Source\AISystems\AISystems\bin\Debug\AISystems.XML
+C:\Users\Michael\Documents\Source\AISystems\AISystems\bin\Debug\AISystems.exe
+C:\Users\Michael\Documents\Source\AISystems\AISystems\bin\Debug\AISystems.pdb
+C:\Users\Michael\Documents\Source\AISystems\AISystems\bin\Debug\AISystems.Mea.dll
+C:\Users\Michael\Documents\Source\AISystems\AISystems\bin\Debug\FSharp.Core.dll
+C:\Users\Michael\Documents\Source\AISystems\AISystems\bin\Debug\AISystems.Mea.pdb
+C:\Users\Michael\Documents\Source\AISystems\AISystems\bin\Debug\AISystems.Mea.xml
+C:\Users\Michael\Documents\Source\AISystems\AISystems\bin\Debug\FSharp.Core.xml
+C:\Users\Michael\Documents\Source\AISystems\AISystems\obj\Debug\AISystems.fsprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Source\AISystems\AISystems\obj\Debug\AISystems.exe
+C:\Users\Michael\Documents\Source\AISystems\AISystems\obj\Debug\AISystems.pdb
